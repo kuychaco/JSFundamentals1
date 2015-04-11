@@ -12,9 +12,6 @@
 
 Welcome to the project portion of "JS Fundamentals"! Glad you are here mastering objects, arrays and functions with us! This document will guide you through the entire process for the project, with plenty of extra work for you to do at home for practice.
 
-##### [A Note on Free Tutoring](id:tutoring):
-If you keep track of typos and unclear directions, whoever submits the most mistakes to <bianca@hackreactor.com> by the end of the week gets one free tutoring session! Please send them numbered in one e-mail or do a pull request to Github with the number of corrections in the comments. The Github method is preferred, feel free to ask for a mini-lesson on how to do this.
-
 #### [Goals](id:goals)
 Today we will practice our JS Fundamentals by creating eFarmony, a dating app that enables animals to find the love they deserve! We will create the data structures and logic that will power your application. After the exercises, all you'll need to do is create the user interface using HTML/CSS and a little jQuery (or JS DOM for the purists)!
 
