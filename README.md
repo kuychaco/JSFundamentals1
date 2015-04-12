@@ -1,5 +1,4 @@
 - **[Welcome](#welcome)**
-  - [Free Tutoring](#tutoring)
   - [Goals](#goals)
 
 - **[FAQ](#faq)**
