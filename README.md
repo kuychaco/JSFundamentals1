@@ -43,10 +43,10 @@ Links to Exercises
 =====
 [Objects](https://github.com/kuychaco/object-exercises)
 
-[Arrays](https://github.com/bgando/array-exercises/)
+[Arrays](https://github.com/kuychaco/array-exercises/)
 
-[Nested Data](https://github.com/bgando/nested-data-exercises)
+[Nested Data](https://github.com/kuychaco/nested-data-exercises)
 
-[Functions](https://github.com/bgando/function-exercises/)
+[Functions](https://github.com/kuychaco/function-exercises/)
 
-[Scope](https://github.com/bgando/scope-exercises/)
+[Scope](https://github.com/kuychaco/scope-exercises/)
