@@ -47,5 +47,3 @@ Links to Exercises
 [Nested Data](https://github.com/kuychaco/nested-data-exercises)
 
 [Functions](https://github.com/kuychaco/function-exercises/)
-
-[Scope](https://github.com/kuychaco/scope-exercises/)
