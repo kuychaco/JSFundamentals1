@@ -41,7 +41,7 @@ The **scripts.js** are the files you will be coding in today.
 
 Links to Exercises
 =====
-[Objects](https://github.com/bgando/object-exercises/)
+[Objects](https://github.com/kuychaco/object-exercises)
 
 [Arrays](https://github.com/bgando/array-exercises/)
 
